@@ -1,0 +1,21 @@
+#list{
+  word word-spacing: 40px;
+}
+
+ul li{
+  display: inline-block;
+}
+
+ul li a{
+  text-decoration: none;
+}
+
+div{
+  float: left;
+}
+
+button{
+  margin-top: 20px;
+  mar
+}
+

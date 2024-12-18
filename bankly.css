@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: helvetica;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+
+}
+.rightnav{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+
+.links{
+    display: flex;
+    gap: 20px;
+    
+}
+
+ul li{
+    display: contents;
+}
+
+

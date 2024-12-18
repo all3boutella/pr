@@ -1,0 +1,33 @@
+.button{
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-color: blue;
+    color: white;
+}
+
+button:hover{
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: orange;
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    height: 300px;
+    grid-gap: 10px 20px;
+    background-color: white;
+}
+
+.grid-item{
+    border: 3px solid blue;
+    border-radius: 6px;
+    background-color: beige;
+}
+
+.grid{
+    border: 3px solid blue;
+    border-radius: 6px;
+    background-color: rgb(72, 22, 22);
+}
+
